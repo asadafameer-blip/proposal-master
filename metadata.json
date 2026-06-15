@@ -1,0 +1,6 @@
+{
+  "name": "Pro Proposal AI",
+  "description": "A smart client proposal generator for freelancers to win high-paying web development and service gigs in seconds using Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
